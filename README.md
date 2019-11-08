@@ -1,2 +1,3 @@
 # CSCI201
-yzhang39@usc.edu
+* yzhang39@usc.edu
+* zixuanli@usc.edu
